@@ -1,1 +1,1 @@
-# GlucoShield-Diabetes-Detection
+The core aim of GlucoShield-Diabetes-Detection is to predict the likelihood of diabetes in individuals using machine learning techniques. By leveraging a dataset of patient health parameters (such as glucose level, insulin, BMI, etc.), the project seeks to assist early diagnosis and risk assessment, potentially enabling timely medical intervention.
